@@ -3,3 +3,6 @@ majfbfjvbj
 git
 apa itu git 
 lfmcld
+
+membaut branch fiture/a isinya file1&file3
+membaut branch fiture/b isinya file1&file4
